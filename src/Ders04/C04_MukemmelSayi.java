@@ -24,9 +24,9 @@ public class C04_MukemmelSayi {
             }
         }
         if (toplam==sayi) {
-            System.out.println("a");;
+            System.out.println("Mukemmel sayidir");;
         } else {
-            System.out.println("ad");
+            System.out.println("Mukemmel sayi degildir");
         }
     }
 }
