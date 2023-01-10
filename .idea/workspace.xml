@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b57f9645-f01d-4868-a2fe-0527a6eb1d87" name="Changes" comment="" />
+    <list default="true" id="b57f9645-f01d-4868-a2fe-0527a6eb1d87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Ders01/C04_Wrappers_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders01/C05_Wrappers_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders01/C06_PostIncrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders01/C07_Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders01/C01_Soru1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders01/C01_Print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders01/C02_Soru2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders01/C02_Print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders01/C03_Soru3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders01/C03_Print.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,59 +47,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C04_MukemmelSayi">
-    <configuration name="C01_ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders04.C01_ForLoop" />
-      <module name="FatihSorular" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_BolmeMethoduOlusturma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders03.C02_BolmeMethoduOlusturma" />
-      <module name="FatihSorular" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders04.C02_ForLoop" />
-      <module name="FatihSorular" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders04.C03_ForLoop" />
-      <module name="FatihSorular" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.C07_Operators">
     <configuration name="C04_MukemmelSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ders04.C04_MukemmelSayi" />
       <module name="FatihSorular" />
@@ -104,13 +61,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C04_Wrappers_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders01.C04_Wrappers_Class" />
+      <module name="FatihSorular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_Wrappers_Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders01.C05_Wrappers_Class" />
+      <module name="FatihSorular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_PostIncrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders01.C06_PostIncrement" />
+      <module name="FatihSorular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders01.C07_Operators" />
+      <module name="FatihSorular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C07_Operators" />
+        <item itemvalue="Application.C06_PostIncrement" />
+        <item itemvalue="Application.C05_Wrappers_Class" />
+        <item itemvalue="Application.C04_Wrappers_Class" />
         <item itemvalue="Application.C04_MukemmelSayi" />
-        <item itemvalue="Application.C03_ForLoop" />
-        <item itemvalue="Application.C02_ForLoop" />
-        <item itemvalue="Application.C01_ForLoop" />
-        <item itemvalue="Application.C02_BolmeMethoduOlusturma" />
       </list>
     </recent_temporary>
   </component>

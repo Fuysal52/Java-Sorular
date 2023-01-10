@@ -1,6 +1,6 @@
 package Ders01;
 
-public class C03_Soru3 {
+public class C03_Print {
     public static void main(String[] args) {
 
         System.out.println("******************************");
