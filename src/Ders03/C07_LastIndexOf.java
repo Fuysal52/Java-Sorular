@@ -13,12 +13,7 @@ public class C07_LastIndexOf {
         String cumle= scan.nextLine();
 
         int ilkBir= cumle.indexOf("bir");
-        int sonBir= cumle.lastIndexOf("bir");
-
-        cumle=cumle.substring(ilkBir+1,sonBir-1);
-        System.out.println(cumle);
-        int ikinciBir = cumle.indexOf("bir")+1;
-        System.out.println(ikinciBir);
-
+        System.out.println(ilkBir);
+        System.out.println(cumle.indexOf("bir",ilkBir+1));
     }
 }
